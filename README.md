@@ -11,7 +11,7 @@ Persona of user is marketing analyst of product company which sells to banks.
 
 Ask chatgpt what are top 2 banks in india 
 
-From top 2 banks , we will query enterprise CRM syste , 
+From top 2 banks , we will query enterprise CRM system , 
  what is  relationship of the bank with product company  , is it customer or not customer
  What is the existing sales volume 
 
