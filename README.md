@@ -24,3 +24,17 @@ What are dates of the campaigns when sales team is busy
 
 We want to make it interesting , we ask chatgpt not to schedule for Diwali holidays  
 
+## How to run 
+
+Pre-requisite for running this code is openai key  :smiley: .
+It is has to put in app.properties
+OPENAI_KEY=< your key here>
+
+you will need local installation of jupyter notebook . 
+Simply run one of the two notebooks
+* usingEnterpriseData.ipynb or 
+* usingEnterpriseData_v2.ipynb
+
+
+
+
