@@ -1,4 +1,4 @@
-# sales intelligence using COT prompts and chatgpt functions.
+# sales intelligence using Chain of thought prompts and chatgpt functions.
 Sales intelligence using chatgpt apis and chatgpt functions .  A simple example which demonstrates how enterprise can use crm/hrm data to train chatgpt and get insights
 
 ## Chain of thought
